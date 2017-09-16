@@ -5,7 +5,7 @@ An implementation of Efros and Freeman's algorithm for texture synthesis and tra
 Launch the executable from the command line. It is called “Image Quilting” and is in the “Executable/Release” folder, along with sample image files.
 
 For texture synthesis the arguments are:
-<source_image_path> <block_size> <border_size> <randomness> <width> <height>
+<source_image_path> <block_size> <border_size> <randomness> <width> <height> <width> <height>
 <br/>
 block_size is the width and height of a "block", a chunk of the source image that will be extracted and pasted elsewhere
 <br/>
